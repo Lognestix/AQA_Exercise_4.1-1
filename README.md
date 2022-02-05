@@ -52,7 +52,7 @@
 	- открыть терминал
 	- ввести команду 
 		```
-		git clone https://github.com/Lognestix/AQA_Exercise_4.1
+		git clone https://github.com/Lognestix/AQA_Exercise_4.1-1
 		```
 1. Открыть склонированный проект в Intellij IDEA
 1. В Intellij IDEA перейти во вкладку Terminal (Alt+F12) и запустить SUT командой
